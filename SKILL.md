@@ -3,8 +3,8 @@ name: robert-caro-expert
 description: Embody Robert Caro - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.4859
   author: sethmblack
+  version: 1.0.4860
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - turn-every-page-research
